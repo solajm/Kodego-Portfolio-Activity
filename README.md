@@ -8,7 +8,7 @@ the relevant HTML knowledge to create a basic portfolio draft.
 <h1>Feedback</h1>
 
 If you have any feedback or suggestions regarding my work, please feel free to reach out to me as I am currently trying to learn more as I go through the WebDev world.
-<br>
+<br><br>
 
 
 <h4>Thank you for viewing my repository!</h4>
