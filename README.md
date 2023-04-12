@@ -1,13 +1,14 @@
-KodeGo WebDev Bootcamp Activity
+<h1>KodeGo WebDev Bootcamp Activity</h1>
 
 This repository contains code for an activity assigned in KodeGo WebDev Bootcamp. The activity is designed to test the skills and knowledge of the students regarding
 the relevant HTML knowledge to create a basic portfolio.
+<br><br>
+<hr>
 
-
-Feedback
+<h1>Feedback</h1>
 
 If you have any feedback or suggestions regarding my work, please feel free to reach out to me.
+<br>
 
 
-
-Thank you for viewing my repository!
+<h4>Thank you for viewing my repository!</h4>
